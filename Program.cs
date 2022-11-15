@@ -18,18 +18,15 @@ namespace CS_BasicProgramming
         public static void Main() {
 
             ArmStrongNumber Ao=new ArmStrongNumber();
-
-            int Number, temp = 0, NumberOfDigits = 0, TotalSum = 0, SingleDigitPower = 1;
+            int TotalSum = 0, SingleDigitPower = 1;
             Console.WriteLine("Enter a number to check wheather it is Armstrong Number or not...\n");
             Console.WriteLine("Enter the number: ");
 
-            if (int.TryParse(Console.ReadLine(), out Number))
+            if (int.TryParse(Console.ReadLine(), out int Number))
             {
-                temp = Number;
+                int NumberOfDigits = Ao.FindNumberOfDigits(Number);
 
-                NumberOfDigits = Ao.FindNumberOfDigits(Number);
-
-                temp=Number;
+                int temp = Number;
                 while (temp != 0) 
                 {
                     for (int i = 0; i < NumberOfDigits; i++)
@@ -48,7 +45,6 @@ namespace CS_BasicProgramming
 
             else
                 Console.WriteLine("Invalid Number type.....\nPLease enter correct input.");
-
         }
     }
 }
