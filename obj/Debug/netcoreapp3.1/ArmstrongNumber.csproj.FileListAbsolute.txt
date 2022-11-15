@@ -1,0 +1,14 @@
+C:\Users\pradipk3\source\repos\Cs_Basics\bin\Debug\netcoreapp3.1\ArmstrongNumber.exe
+C:\Users\pradipk3\source\repos\Cs_Basics\bin\Debug\netcoreapp3.1\ArmstrongNumber.deps.json
+C:\Users\pradipk3\source\repos\Cs_Basics\bin\Debug\netcoreapp3.1\ArmstrongNumber.runtimeconfig.json
+C:\Users\pradipk3\source\repos\Cs_Basics\bin\Debug\netcoreapp3.1\ArmstrongNumber.runtimeconfig.dev.json
+C:\Users\pradipk3\source\repos\Cs_Basics\bin\Debug\netcoreapp3.1\ArmstrongNumber.dll
+C:\Users\pradipk3\source\repos\Cs_Basics\bin\Debug\netcoreapp3.1\ArmstrongNumber.pdb
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\ArmstrongNumber.csproj.AssemblyReference.cache
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\ArmstrongNumber.AssemblyInfoInputs.cache
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\ArmstrongNumber.AssemblyInfo.cs
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\ArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\ArmstrongNumber.dll
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\ArmstrongNumber.pdb
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\ArmstrongNumber.genruntimeconfig.cache

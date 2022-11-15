@@ -1,0 +1,14 @@
+C:\Users\pradipk3\source\repos\Cs_Basics\bin\Debug\netcoreapp3.1\Cs_Basics.exe
+C:\Users\pradipk3\source\repos\Cs_Basics\bin\Debug\netcoreapp3.1\Cs_Basics.deps.json
+C:\Users\pradipk3\source\repos\Cs_Basics\bin\Debug\netcoreapp3.1\Cs_Basics.runtimeconfig.json
+C:\Users\pradipk3\source\repos\Cs_Basics\bin\Debug\netcoreapp3.1\Cs_Basics.runtimeconfig.dev.json
+C:\Users\pradipk3\source\repos\Cs_Basics\bin\Debug\netcoreapp3.1\Cs_Basics.dll
+C:\Users\pradipk3\source\repos\Cs_Basics\bin\Debug\netcoreapp3.1\Cs_Basics.pdb
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\Cs_Basics.csproj.AssemblyReference.cache
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\Cs_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\Cs_Basics.AssemblyInfoInputs.cache
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\Cs_Basics.AssemblyInfo.cs
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\Cs_Basics.csproj.CoreCompileInputs.cache
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\Cs_Basics.dll
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\Cs_Basics.pdb
+C:\Users\pradipk3\source\repos\Cs_Basics\obj\Debug\netcoreapp3.1\Cs_Basics.genruntimeconfig.cache
