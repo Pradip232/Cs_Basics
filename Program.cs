@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Armstrong Number
+using System;
 
 namespace CS_BasicProgramming
 {
